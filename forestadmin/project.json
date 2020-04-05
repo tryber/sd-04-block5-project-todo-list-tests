@@ -21,7 +21,7 @@
         "bonus": false
       },
       {
-        "description": "Deve haver uma lista ordenada de tarefas com o `id=\"lista-tarefas\"",
+        "description": "Deve haver uma lista ordenada de tarefas com o `id=\"lista-tarefas\"`",
         "enabled": true,
         "bonus": false
       },
